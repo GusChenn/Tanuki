@@ -44,7 +44,7 @@
     }
   },
   "tapping": {
-    "term": 100,
+    "term": 150
   },
   "matrix_pins": {
     "cols": ["B3", "B2", "B6", "B5", "B4", "E6", "D7", "C6", "F4", "F5", "F6"],
